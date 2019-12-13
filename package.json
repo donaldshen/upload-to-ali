@@ -107,5 +107,5 @@
       "git add"
     ]
   },
-  "grenrc": "@femessage/grenrc"
+  "gren": "https://unpkg.com/@femessage/grenrc@1.0.0/index.js"
 }
